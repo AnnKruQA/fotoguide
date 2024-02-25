@@ -1,11 +1,11 @@
-# User Guide: Adding a Photo on Facebook
+# User Guide: Adding a Photo on Facebook <!-- omit in toc -->
 
 This user manual offers a clear and concise comparison of the steps for adding a photo on Facebook across different devices.
 
-### Table of contents
-- [Mobile browser](#If-you-access-Facebook-in-mobile-web-browser)
-- [Android app](#If-you-use-the-Facebook-Android-app)
-- [iOS app](#If-you-use-the_iOS-app)
+### Table of contents <!-- omit in toc -->
+- [Mobile](#Mobile)
+- [Androidapp](#Android_app)
+- [iOSapp](#iOS-app)
 - [PC](#PC)
 - [Table](#table)
 
