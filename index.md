@@ -3,9 +3,9 @@
 This user manual offers a clear and concise comparison of the steps for adding a photo on Facebook across different devices.
 
 ### Table of contents <!-- omit in toc -->
-- [Mobile](#Mobile)
-- [Androidapp](#Android_app)
-- [iOSapp](#iOS-app)
+- [Mobile browser](#Mobile-browser)
+- [Android app](#Android-app)
+- [iOS app](#iOS-app)
 - [PC](#PC)
 - [Table](#table)
 
