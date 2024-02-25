@@ -1,10 +1,12 @@
 # User Guide: Adding a Photo on Facebook
 
+This user manual offers a clear and concise comparison of the steps for adding a photo on Facebook across different devices.
+
 ### Table of contents
-- [If_you_access_Facebook_in_mobile_web_browser](#If-you-access-Facebook-in-mobile-web-browser)
-- [If_you_use_Facebook_Android_app](#If-you-use-Facebook-Android-app)
-- [If_you_use_Facebook_iOS_app](#If-you-use-iOS-app)
-- [If you use Facebook on the laptop](#If-you-use-Facebook-on-the-laptop)
+- [Mobile browser](#If-you-access-Facebook-in-mobile-web-browser)
+- [Android app](#If-you-use-Facebook-Android-app)
+- [iOS app](#If-you-use-iOS-app)
+- [Laptop](#If-you-use-Facebook-on-the-laptop)
 - [Table](#table)
 
 !["What's on your mind?" box at the top of Facebook timeline.](Facebook_What_is_on_your_mind_box.png)
@@ -13,9 +15,8 @@
 
 
 
-<aside>
-➡️ This user manual offers a clear and concise comparison of the steps for adding a photo on Facebook across different devices.
-</aside>
+This user manual offers a clear and concise comparison of the steps for adding a photo on Facebook across different devices.
+
 
 
 
