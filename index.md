@@ -6,7 +6,7 @@ This user manual offers a clear and concise comparison of the steps for adding a
 - [Mobile browser](#If-you-access-Facebook-in-mobile-web-browser)
 - [Android app](#If-you-use-the-Facebook-Android-app)
 - [iOS app](#If-you-use-the_iOS-app)
-- [Laptop](#If-you-use-Facebook-on-the-laptop)
+- [PC](#PC)
 - [Table](#table)
 
 !["What's on your mind?" box at the top of Facebook timeline.](Facebook_What_is_on_your_mind_box.png)
@@ -54,7 +54,7 @@ If you access Facebook in the mobile web browser
 
 ---
 
-## Facebook Android app
+## Android app
 
 If you use the Facebook Android application
 
@@ -93,7 +93,7 @@ If you use the Facebook Android application
 
 ---
 
-## Facebook iOS app
+## iOS app
 If you use the Facebook iOS application
 
 **Step 1: Log in to Facebook**
@@ -131,8 +131,8 @@ If you use the Facebook iOS application
 
 ---
 
-## Laptop
-If you use Facebook on the laptop
+## PC
+If you use Facebook on the PC
 
 **Step 1: Log in to Facebook**
 
