@@ -1,10 +1,10 @@
 # User Guide: Adding a Photo on Facebook
 
 ### Table of contents
-- [If_you_**access_Facebook_in_mobile_web_browser](#If-you-access-Facebook-in-mobile-web-browser)
+- [If_you_access_Facebook_in_mobile_web_browser](#If-you-access-Facebook-in-mobile-web-browser)
 - [If_you_use_Facebook_Android_app](#If-you-use-Facebook-Android-app)
 - [If_you_use_Facebook_iOS_app](#If-you-use-iOS-app)
-- [If_you_use_Facebook_on_the_laptop**](#If-you-use-Facebook-on-the-laptop)
+- [If you use Facebook on the laptop](#If-you-use-Facebook-on-the-laptop)
 - [Table](#table)
 
 !["What's on your mind?" box at the top of Facebook timeline.](Facebook_What_is_on_your_mind_box.png)
@@ -168,6 +168,8 @@
 ![Type alternative text to add a meaningful description to your photo for assistive technologies.](Type_alternative_text_box.png)
 
 Type alternative text to add a meaningful description to your photo for assistive technologies.
+
+## Table
 
 | Steps | Mobile Web | Android App | iPhone App (iOS) | Laptop |
 | --- | --- | --- | --- | --- |
