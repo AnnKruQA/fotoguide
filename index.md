@@ -8,7 +8,7 @@ Devices
 - [Android app](#Android-app)
 - [iOS app](#iOS-app)
 - [PC](#PC)
-
+  
 Comparison
 - [Table](#table)
 
@@ -163,6 +163,7 @@ If you use Facebook on the PC
 
 - Click "Post" to share your photo.
 
+###ALT
 **Step 7: Add ALT Tag for Accessibility**
 
 - After posting, click on your photo, select "Options," and then "Edit Photo."
