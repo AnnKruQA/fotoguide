@@ -1,6 +1,8 @@
 # User Guide: Adding a Photo on Facebook for the Very First Time
 
-This user manual offers a clear and concise comparison of the steps for adding a photo on Facebook across different devices.
+This user manual offers a clear and concise comparison of the steps for adding a photo on Facebook across different devices.	
+
+
 
 !["What's on your mind?" box at the top of Facebook timeline.](Facebook_What_is_on_your_mind_box.png)
 
