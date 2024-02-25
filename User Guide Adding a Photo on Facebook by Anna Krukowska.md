@@ -1,6 +1,6 @@
 # User Guide: Adding a Photo on Facebook for the Very First Time
 
-!["What's on your mind?" box at the top of Facebook timeline.](User%20Guide%20Adding%20a%20Photo%20on%20Facebook%20for%20the%20Very%2085ef2b22b1e2434f9412a9f2cc6ba142/Facebook_screen_of_Whats_on_your_mind_box_with_Photo_video_button_to_add_pictures.png)
+!["What's on your mind?" box at the top of Facebook timeline.](Facebook_What_is_on_your_mind_box.png)
 
 "What's on your mind?" box at the top of Facebook timeline.
 
@@ -154,7 +154,7 @@
 - Add a descriptive ALT tag in the "Alt Text" field.
 - Save your changes.
 
-![Type alternative text to add a meaningful description to your photo for assistive technologies.](User%20Guide%20Adding%20a%20Photo%20on%20Facebook%20for%20the%20Very%2085ef2b22b1e2434f9412a9f2cc6ba142/Facebook_type_alt_text_box.png)
+![Type alternative text to add a meaningful description to your photo for assistive technologies.](Type_alternative_text_box.png)
 
 Type alternative text to add a meaningful description to your photo for assistive technologies.
 
