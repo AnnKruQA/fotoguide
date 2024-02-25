@@ -1,19 +1,16 @@
 # User Guide: Adding a Photo on Facebook for the Very First Time
 
+This user manual offers a clear and concise comparison of the steps for adding a photo on Facebook across different devices.
+
 !["What's on your mind?" box at the top of Facebook timeline.](Facebook_What_is_on_your_mind_box.png)
 
 "What's on your mind?" box at the top of Facebook timeline.
 
+---
 
+## Mobile browser
 
-<aside>
-➡️ This user manual offers a clear and concise comparison of the steps for adding a photo on Facebook across different devices.
-</aside>
-
-
-
-
-## If you **access Facebook in** mobile web browser
+If you access Facebook in the mobile web browser
 
 **Step 1: Log in to Facebook**
 
@@ -50,11 +47,13 @@
 
 ---
 
-## If you use **Facebook Android app**
+## Facebook Android
+
+If you use the Facebook Android app
 
 **Step 1: Log in to Facebook**
 
-- Open Facebook app.
+- Open the Facebook app.
 - Enter your login credentials and tap "Log In".
 
 **Step 2: Access Your Profile**
@@ -87,11 +86,13 @@
 
 ---
 
-## If you use **Facebook iOS app**
+## Facebook iOS
+
+If you use the Facebook iOS app
 
 **Step 1: Log in to Facebook**
 
-- Open Facebook app.
+- Open the Facebook app.
 - Enter your login credentials and tap "Log In".
 
 **Step 2: Access Your Profile**
@@ -124,7 +125,9 @@
 
 ---
 
-## If you use **Facebook on laptop**
+## PC
+
+If you use Facebook on the PC
 
 **Step 1: Log in to Facebook**
 
@@ -162,6 +165,10 @@
 
 Type alternative text to add a meaningful description to your photo for assistive technologies.
 
+---
+
+##Table
+
 | Steps | Mobile Web | Android App | iPhone App (iOS) | Laptop |
 | --- | --- | --- | --- | --- |
 | 1. Log in to Facebook | Open browser, go to https://www.facebook.com/, enter login credentials, tap "Log In" | Open the Facebook app, log in | Open the Facebook app, log in | Open browser, go to https://www.facebook.com/, enter login credentials, click "Log In" |
@@ -176,10 +183,6 @@ Type alternative text to add a meaningful description to your photo for assistiv
 
 <aside>
 ✅ Congratulations! You have successfully added a photo to your Facebook wall. Your new post is now visible to your friends and followers.
-</aside>
 
-
-
-<aside>
 💡 If you have followed the accessibility step #7, your content is also accessible to individuals who use assistive technologies.
 </aside>
