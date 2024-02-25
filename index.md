@@ -4,8 +4,8 @@ This user manual offers a clear and concise comparison of the steps for adding a
 
 ### Table of contents
 - [Mobile browser](#If-you-access-Facebook-in-mobile-web-browser)
-- [Android app](#If-you-use-Facebook-Android-app)
-- [iOS app](#If-you-use-iOS-app)
+- [Android app](#If-you-use-the-Facebook-Android-app)
+- [iOS app](#If-you-use-the_iOS-app)
 - [Laptop](#If-you-use-Facebook-on-the-laptop)
 - [Table](#table)
 
@@ -13,15 +13,10 @@ This user manual offers a clear and concise comparison of the steps for adding a
 
 "What's on your mind?" box at the top of Facebook timeline.
 
+---
 
-
-This user manual offers a clear and concise comparison of the steps for adding a photo on Facebook across different devices.
-
-
-
-
-
-## If you access Facebook in mobile web browser
+## Mobile browser
+If you access Facebook in the mobile web browser
 
 **Step 1: Log in to Facebook**
 
@@ -58,11 +53,12 @@ This user manual offers a clear and concise comparison of the steps for adding a
 
 ---
 
-## If you use Facebook Android app
+## Facebook Android app
+If you use the Facebook Android application
 
 **Step 1: Log in to Facebook**
 
-- Open Facebook app.
+- Open the Facebook app.
 - Enter your login credentials and tap "Log In".
 
 **Step 2: Access Your Profile**
@@ -95,11 +91,12 @@ This user manual offers a clear and concise comparison of the steps for adding a
 
 ---
 
-## If you use Facebook iOS app
+## Facebook iOS app
+If you use the Facebook iOS application
 
 **Step 1: Log in to Facebook**
 
-- Open Facebook app.
+- Open the Facebook app.
 - Enter your login credentials and tap "Log In".
 
 **Step 2: Access Your Profile**
@@ -132,6 +129,7 @@ This user manual offers a clear and concise comparison of the steps for adding a
 
 ---
 
+## Laptop
 ## If you use Facebook on the laptop
 
 **Step 1: Log in to Facebook**
@@ -170,6 +168,8 @@ This user manual offers a clear and concise comparison of the steps for adding a
 
 Type alternative text to add a meaningful description to your photo for assistive technologies.
 
+---
+
 ## Table
 
 | Steps | Mobile Web | Android App | iPhone App (iOS) | Laptop |
@@ -182,13 +182,12 @@ Type alternative text to add a meaningful description to your photo for assistiv
 | 6. Post Your Photo | Tap "Post" | Tap "Post" | Tap "Post" | Click "Post" |
 | 7. Add ALT Tag for Accessibility | After posting, find photo, tap three dots, select "Edit Photo," add ALT tag in "Alternative Text," save | After posting, find photo, tap three dots, select "Edit Photo," add ALT tag in "Alternative Text," save | After posting, find photo, tap three dots, select "Edit Photo," add ALT tag in "Alt Text," save | After posting, click on photo, select "Options," then "Edit Photo," add ALT tag in "Alt Text," save |
 
-
-
+---
 <aside>
 ✅ Congratulations! You have successfully added a photo to your Facebook wall. Your new post is now visible to your friends and followers.
 </aside>
 
-
+---
 
 <aside>
 💡 If you have followed the accessibility step #7, your content is also accessible to individuals who use assistive technologies.
