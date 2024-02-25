@@ -4,10 +4,14 @@
 
 "What's on your mind?" box at the top of Facebook timeline.
 
+
+
 <aside>
 ➡️ This user manual offers a clear and concise comparison of the steps for adding a photo on Facebook across different devices.
-
 </aside>
+
+
+
 
 ## If you **access Facebook in** mobile web browser
 
@@ -168,12 +172,14 @@ Type alternative text to add a meaningful description to your photo for assistiv
 | 6. Post Your Photo | Tap "Post" | Tap "Post" | Tap "Post" | Click "Post" |
 | 7. Add ALT Tag for Accessibility | After posting, find photo, tap three dots, select "Edit Photo," add ALT tag in "Alternative Text," save | After posting, find photo, tap three dots, select "Edit Photo," add ALT tag in "Alternative Text," save | After posting, find photo, tap three dots, select "Edit Photo," add ALT tag in "Alt Text," save | After posting, click on photo, select "Options," then "Edit Photo," add ALT tag in "Alt Text," save |
 
+
+
 <aside>
 ✅ Congratulations! You have successfully added a photo to your Facebook wall. Your new post is now visible to your friends and followers.
-
 </aside>
+
+
 
 <aside>
 💡 If you have followed the accessibility step #7, your content is also accessible to individuals who use assistive technologies.
-
 </aside>
