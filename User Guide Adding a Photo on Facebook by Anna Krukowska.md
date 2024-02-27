@@ -183,7 +183,7 @@ Type alternative text to add a meaningful description to your photo for assistiv
 | 3. Create a New Post | Tap "What's on your mind?" | Tap "What's on your mind?" | Tap "What's on your mind?" | Locate "What's on your mind?" box |
 | 4. Add a Photo | Tap camera icon, choose from gallery or take photo | Tap camera icon, choose from gallery or take photo | Tap camera icon, choose from gallery or take photo | Click camera icon, upload photo |
 | 5. Write a Caption | Add a caption | Add a caption | Add a caption | Add a caption |
-| 6. Post Your Photo | Click "Post" | Click "Post" | Tap "Post" | Click "Post" |
+| 6. Post Your Photo | Tap "Post" | Tap "Post" | Tap "Post" | Click "Post" |
 | 7. Add ALT Tag for Accessibility | After posting, find photo, tap three dots, select "Edit Photo," add ALT tag in "Alternative Text," save | After posting, find photo, tap three dots, select "Edit Photo," add ALT tag in "Alternative Text," save | After posting, find photo, tap three dots, select "Edit Photo," add ALT tag in "Alt Text," save | After posting, click on photo, select "Options," then "Edit Photo," add ALT tag in "Alt Text," save |
 
 
